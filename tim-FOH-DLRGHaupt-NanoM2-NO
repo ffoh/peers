@@ -2,3 +2,16 @@
 # vormals FOH-NiedStef2M2
 # MAC-Adresse 24:a4:3c:a8:53:87
 key "5cdd9e7cfc6eb33ac35123ef9c88ae793321fa00efbe465fa1a4923c8857f954";
+---
+# Hostname: FOH-NiedStef1M2
+# ehemals  FOH-NK1LM2
+# ehemals FOH-TestLocoM2
+# ehemals FOH-Por1NanoM2
+# ehemals FOH-NiedersachsenKiekUt1NM2
+# ehemals FOH-14S2M2
+# ehemals FOH-14S2
+# Hardware-Modell: Ubiquiti Nanostation M
+# MAC: 24:a4:3c:e4:c7:17
+# key "0a0d603760ad65e855dd5a7313c5e11e8cfa60eb3e9b27797d6fef6ff51a6c41";
+# key "09acb08db94a4b44ce83e93a783f4697a78ebcc03cb04824fea56f639634a542";
+key "5cdd9e7cfc6eb33ac35123ef9c88ae793321fa00efbe465fa1a4923c8857f954";
