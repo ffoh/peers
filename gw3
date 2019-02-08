@@ -1,3 +1,6 @@
 #gw3
 #remote "gw3.ffoh.de" port 11280;
-key "f489da049d8542b387c32f61a613514c618dde22617962755f563261aafe5593";
+# ehemals bei Filoo
+#key "f489da049d8542b387c32f61a613514c618dde22617962755f563261aafe5593";
+# jetzt auf coco.ffoh.de
+key "99b347fd810acfd4653e6b1ce779f1794de4a009527281f03abdcb3b03fb2461";

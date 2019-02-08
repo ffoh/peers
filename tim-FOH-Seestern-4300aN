@@ -1,9 +1,11 @@
+# Hostname: FOH-Seestern-4300aN
+# ehemals 
 # Hostname: FOH-Seestern01-4300
-# ehemals
 # Hostname: FOH-Tor2Test4300
 # Hostname: BFO-V1-4300 
 # Hostname: BFO-NK-1-4300 
 # Hostname: Splash-4
 # MAC-Adresse: a0:f3:c1:8f:a0:e4
 # Hardware-Modell: TP-Link TL-WDR4300 v1
-key "6c9c7c34d323074ddfe3629a2b8c3e714a1c7ae49cca6b68bd92764db77f0a19";
+# key "6c9c7c34d323074ddfe3629a2b8c3e714a1c7ae49cca6b68bd92764db77f0a19";
+key "1935378c6cc62c9ca1da1bcd1e190ba4865e82084823ff863ac15e51269c1303";

@@ -1,6 +1,7 @@
-#Hostname: FOH-L1841
-#ehemals
-#Hostname: FOH-NundK5841
-#MAC-Adresse: 30:b5:c2:ee:1a:ea
-#Hardware-Modell: TP-Link TL-WR841N/ND v9
-key "a57d3e405482443bdd9adc18e450091dfcc4bf669da8a50061b5dd558e1b1b28";
+# Hostname: FOH-L1841
+# ehemals FOH-NundK5841
+# MAC-Adresse: 30:b5:c2:ee:1a:ea
+# Hardware-Modell: TP-Link TL-WR841N/ND v9
+# key "a57d3e405482443bdd9adc18e450091dfcc4bf669da8a50061b5dd558e1b1b28";
+# key "6ad2fff3d1b6d134b0835b415e55a4298059e30f0864dd408335ecade4d7292a";
+key "ce7f92333a98a329cea51020dd1b38f217b2718b477369227f59b6c9da4fe3de";
