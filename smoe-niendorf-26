@@ -1,5 +1,7 @@
+# Ersatz-Carpe-Haus2-2023
+# formerly
 # Niendorf-26
-# 4300er ausgeliehen an Pöchlauer, Hermann-Kröger-Str.
-key "6102b9fb50ee6715d09a080fea6e74f49b348fdf25617c899b973321b282c783";
 # MAC: 10:fe:ed:e6:0b:26
 # WLAN-MAC: 12:02:ed:e6:0b:26
+# zu überprüfen:
+key "d044b0e1e5a67df289648c25fba107564048d6871d6da46458f8a58232d97c7e";
